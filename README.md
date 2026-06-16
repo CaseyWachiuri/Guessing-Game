@@ -6,6 +6,11 @@ The program will generate a random integer between 1 and 100. It will then promp
 
 ### Installation Requirements
 ```
+git clone https://github.com/CaseyWachiuri/Guessing-Game.git
+cd /*location of the directory*/
+cargo run
+cargo build
+cargo build --release
 ```
 
 ## Technologies used
